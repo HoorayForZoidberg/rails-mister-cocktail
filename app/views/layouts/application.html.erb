@@ -10,6 +10,8 @@
   </head>
 
   <body>
+    <%= render "layouts/shared/navbar" %>
+
     <%= yield %>
 
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>

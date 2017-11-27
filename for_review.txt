@@ -1,3 +1,5 @@
 1) understanding dependent-destroy relationship and before destroy validation
 2) webpack-dev-server not working
 3) including the second javascript tag at the end of the layout file breaks the code
+4) logo not displaiing in navbar
+
